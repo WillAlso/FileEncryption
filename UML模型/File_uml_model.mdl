@@ -679,7 +679,7 @@
 			    default_color 	TRUE)
 			stereotype 	(object SegLabel @19
 			    Parent_View 	@18
-			    location   	(1175, 320)
+			    location   	(1174, 320)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -704,7 +704,7 @@
 			supplier   	@1
 			vertices   	(list Points
 			    (1109, 438)
-			    (1190, 260))
+			    (1190, 258))
 			line_style 	0)
 		    (object AssociationViewNew "$UNNAMED$3" @20
 			location   	(1503, 398)
@@ -785,7 +785,7 @@
 				    (1195, 552))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$9" @26
-			location   	(1088, 741)
+			location   	(1088, 740)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -801,27 +801,27 @@
 			roleview_list 	(list RoleViews
 			    (object RoleView "$UNNAMED$10" @27
 				Parent_View 	@26
-				location   	(16, 277)
+				location   	(16, 276)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"5AC9E5000096"
 				client     	@26
 				supplier   	@12
 				vertices   	(list Points
-				    (1088, 741)
+				    (1088, 740)
 				    (1088, 822))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$11" @28
 				Parent_View 	@26
-				location   	(16, 277)
+				location   	(16, 276)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"5AC9E5000098"
 				client     	@26
 				supplier   	@17
 				vertices   	(list Points
-				    (1088, 741)
-				    (1088, 660))
+				    (1088, 740)
+				    (1088, 658))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$15" @29
 			location   	(798, 496)
@@ -965,7 +965,7 @@
 			    default_color 	TRUE)
 			stereotype 	(object SegLabel @38
 			    Parent_View 	@37
-			    location   	(792, 1149)
+			    location   	(793, 1148)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -989,7 +989,7 @@
 			client     	@12
 			supplier   	@36
 			vertices   	(list Points
-			    (997, 968)
+			    (1000, 965)
 			    (674, 1302))
 			line_style 	0)
 		    (object UseCaseView "Use Case View::选择存取目录" @39
@@ -1052,7 +1052,7 @@
 			client     	@12
 			supplier   	@39
 			vertices   	(list Points
-			    (1068, 1044)
+			    (1068, 1042)
 			    (1043, 1334))
 			line_style 	0)
 		    (object UseCaseView "Use Case View::选择文件" @42
@@ -1280,7 +1280,7 @@
 			    default_color 	TRUE)
 			stereotype 	(object SegLabel @53
 			    Parent_View 	@52
-			    location   	(2222, 1208)
+			    location   	(2221, 1207)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -1305,7 +1305,7 @@
 			supplier   	@9
 			vertices   	(list Points
 			    (2424, 1366)
-			    (1944, 982))
+			    (1940, 979))
 			line_style 	0)
 		    (object UseCaseView "Use Case View::错误通知" @54
 			location   	(1488, 1376)
@@ -1343,7 +1343,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@55
-			    location   	(1308, 1153)
+			    location   	(1305, 1151)
 			    anchor_loc 	1
 			    nlines     	1
 			    max_width  	60
@@ -1351,7 +1351,7 @@
 			    label      	"")
 			stereotype 	(object SegLabel @56
 			    Parent_View 	@55
-			    location   	(1397, 1084)
+			    location   	(1394, 1076)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -1376,7 +1376,7 @@
 			supplier   	@12
 			vertices   	(list Points
 			    (1439, 1317)
-			    (1176, 989))
+			    (1172, 986))
 			line_style 	0)
 		    (object DependencyView "" @57
 			font       	(object Font
@@ -1390,7 +1390,7 @@
 			    default_color 	TRUE)
 			stereotype 	(object SegLabel @58
 			    Parent_View 	@57
-			    location   	(483, 339)
+			    location   	(483, 338)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -1415,10 +1415,10 @@
 			supplier   	@4
 			vertices   	(list Points
 			    (507, 438)
-			    (501, 260))
+			    (501, 258))
 			line_style 	0)
 		    (object UseCaseView "Use Case View::错误通知" @59
-			location   	(864, 128)
+			location   	(848, 112)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1430,7 +1430,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@59
-			    location   	(864, 266)
+			    location   	(848, 250)
 			    anchor_loc 	1
 			    nlines     	2
 			    max_width  	630
@@ -1453,7 +1453,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@60
-			    location   	(668, 328)
+			    location   	(659, 322)
 			    anchor_loc 	1
 			    nlines     	1
 			    max_width  	60
@@ -1461,7 +1461,7 @@
 			    label      	"")
 			stereotype 	(object SegLabel @61
 			    Parent_View 	@60
-			    location   	(757, 259)
+			    location   	(735, 345)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -1477,16 +1477,16 @@
 			    max_width  	450
 			    justify    	0
 			    label      	"<<extend>>"
-			    pctDist    	0.354820
-			    height     	33
+			    pctDist    	0.392163
+			    height     	72
 			    orientation 	0)
 			line_color 	3342489
 			quidu      	"5AC9E92E0254"
 			client     	@59
 			supplier   	@13
 			vertices   	(list Points
-			    (773, 219)
-			    (563, 437))
+			    (760, 207)
+			    (558, 438))
 			line_style 	0)))
 	    (object UseCaseDiagram "File"
 		quid       	"5AC9E10E0379"
